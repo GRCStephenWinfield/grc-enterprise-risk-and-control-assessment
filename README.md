@@ -6,6 +6,15 @@ This repository demonstrates a full Governance, Risk, and Compliance assessment 
 
 The purpose of this project is to showcase practical GRC skills by walking through the full assessment lifecycle: scoping, framework mapping, control assessment, evidence requests, risk identification, gap analysis, remediation planning, POA&M development, and executive reporting.
 
+## Project Navigation
+
+| Section | Description | Link |
+|---|---|---|
+| Client Scenario | Fictional company profile and business context. | [Open](./00-client-scenario/company-profile.md) |
+| Assessment Scope | Assessment objective, scope, frameworks, and deliverables. | [Open](./01-assessment-scope/assessment-charter.md) |
+| Framework Mapping | Control crosswalk across NIST CSF, NIST 800-53, CIS, SOC 2, and PCI DSS. | [Open](./02-framework-mapping/control-crosswalk-summary.md) |
+| Risk Register | Top 10 enterprise cybersecurity and compliance risks. | [Open](./05-risk-register/top-10-risks-summary.md) |
+| Executive Reporting | Executive-level risk summary, findings, and 90-day action plan. | [Open](./08-executive-reporting/executive-summary.md) |
 
 ## Fictional Client Scenario
 
