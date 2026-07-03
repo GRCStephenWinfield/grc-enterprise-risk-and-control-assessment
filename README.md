@@ -1,5 +1,13 @@
 # grc-enterprise-risk-and-control-assessment
 
+## Reviewer Quick Links
+
+| File | Purpose | Link |
+|---|---|---|
+| Repository Summary | Short overview of the full GRC portfolio project. | [Open](./repository-summary.md) |
+| How to Review This Portfolio | Suggested review path for hiring managers, recruiters, and GRC leaders. | [Open](./how-to-review-this-portfolio.md) |
+| Portfolio Completion Checklist | Tracks completed repository sections and deliverables. | [Open](./portfolio-completion-checklist.md) |
+
 ## Project Overview
 
 This repository demonstrates a full Governance, Risk, and Compliance assessment for a fictional enterprise organization. The scenario is based on a digital bank, fintech, and technology company environment that must manage cybersecurity risk, regulatory expectations, third-party risk, cloud security, payment security, and executive reporting.
